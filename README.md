@@ -1,4 +1,4 @@
-# Web Scraper - MetroCuadrado Neiva 🏠
+# Web Scraper - Inmuebles
 
 Proyecto educativo de web scraping para extraer información de propiedades inmobiliarias en Neiva desde MetroCuadrado y exportarlas a CSV.
 
